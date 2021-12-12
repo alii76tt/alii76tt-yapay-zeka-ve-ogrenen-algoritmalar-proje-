@@ -22,10 +22,12 @@ sensörlerden alınan saatlik ortalamalardan oluşur.
 - Exhaust Vacuum (V) in the range 25.36–81.56 cm Hg
 - Net hourly electrical energy output (PE) 420.26–495.76 MW
 
+![1](/Documents/scatter_matrix.png)
+
 # Knime ile analiz
 
 ```sh
 $ Knime uygulamasını açın.
-$ File/Import Knıme Workflow...
+$ File/Import Knime Workflow...
 $ Dosya klasörünü seçerek ilerleyin.
 ```
